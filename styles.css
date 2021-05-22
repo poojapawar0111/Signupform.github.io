@@ -1,0 +1,20 @@
+#title,#description{
+  text-align:center;
+}
+input,select,textarea,button{
+  margin:15px;
+  padding:12px 20px ;
+  width:100%;
+}
+label{
+  margin:15px;
+}
+input[type=radio],input[type=checkbox]{
+  width:auto;
+}
+#submit{
+  background-color:green;
+  color:white;
+  font-weight:900;
+  font-size:15px;
+}
